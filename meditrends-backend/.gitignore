@@ -1,0 +1,27 @@
+# ─── Environment variables ─────────────────────────────────────────────────────
+# keep your .env files (backend/.env) out of Git
+.env
+
+# ─── Python artifacts (backend) ────────────────────────────────────────────────
+# bytecode
+__pycache__/
+*.py[cod]
+# virtual envs
+venv/
+env/
+ENV/
+# logs & databases
+*.log
+logs/
+*.db
+*.sqlite
+
+# ─── Frontend artifacts (if you ever add Node) ─────────────────────────────────
+# node_modules (future React/Next)
+frontend/node_modules/
+
+# ─── Editor / OS cruft ─────────────────────────────────────────────────────────
+.vscode/           # VS Code settings, launch configs
+*.code-workspace
+.DS_Store
+Thumbs.db
