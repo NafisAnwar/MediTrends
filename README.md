@@ -4,6 +4,9 @@
 
 ---
 
+<img width="2559" height="1254" alt="image" src="https://github.com/user-attachments/assets/ccc378b9-b5a5-4bba-98dc-39857aad8187" />
+
+
 ## Features
 
 * Search Reddit for medical discussions using keywords or symptoms
